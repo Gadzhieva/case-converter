@@ -1,0 +1,17 @@
+button {
+    background: coral;
+}
+
+textarea {
+    width: 500px;
+    height: 300px;
+}
+
+.title {
+    font-size: large;
+    font-weight: bold;
+}
+
+.flex-container {
+    display: flow;
+}
